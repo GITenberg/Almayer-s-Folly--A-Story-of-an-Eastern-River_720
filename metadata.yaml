@@ -1,0 +1,49 @@
+_repo: Almayer-s-Folly--A-Story-of-an-Eastern-River_720
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "Almayer's Folly, published in 1895, is Joseph Conrad's first novel.\
+  \ Set in the late 19th century, it centers on the life of the Dutch trader Kaspar\
+  \ Almayer in the Borneo jungle and his relationship to his mixed heritage daughter\
+  \ Nina.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '720'
+  wikidata: Q2404359
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lingard, Tom (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Trading companies -- Fiction'
+- !lcsh 'Dutch -- Borneo -- Fiction'
+- !lcsh 'Imperialism -- Fiction'
+- !lcsh 'Borneo -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Didactic fiction'
+- GITenberg
+title: 'Almayer''s Folly: A Story of an Eastern River'
+url: http://www.gutenberg.org/ebooks/720
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Folie_Almayer
+- https://pl.wikisource.org/wiki/Szale%C5%84stwo_Almayera
+- https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%82%D8%AA%E2%80%8C%D8%AE%D8%A7%D9%86%D9%87_%D8%A2%D9%84%D9%85%D8%A7%DB%8C%D8%B1
+- https://pl.wikipedia.org/wiki/Szale%C5%84stwo_Almayera
+- https://simple.wikipedia.org/wiki/Almayer%27s_Folly
+- https://en.wikisource.org/wiki/Almayer%27s_Folly
+- https://en.wikipedia.org/wiki/Almayer%27s_Folly
+- https://it.wikipedia.org/wiki/La_follia_di_Almayer
+- https://ro.wikipedia.org/wiki/Hanul_lui_Almayer
