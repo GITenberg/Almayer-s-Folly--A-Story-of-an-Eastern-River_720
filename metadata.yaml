@@ -1,5 +1,8 @@
 _repo: Almayer-s-Folly--A-Story-of-an-Eastern-River_720
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -16,6 +19,8 @@ description: "Almayer's Folly, published in 1895, is Joseph Conrad's first novel
   \ Set in the late 19th century, it centers on the life of the Dutch trader Kaspar\
   \ Almayer in the Borneo jungle and his relationship to his mixed heritage daughter\
   \ Nina.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/720#Almayer-s-Folly--A-Story-of-an-Eastern-River
 gutenberg_issued: '1996-11-01'
 gutenberg_type: Text
 identifiers:
